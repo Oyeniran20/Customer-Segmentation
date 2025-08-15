@@ -6,7 +6,7 @@ Features Description
 Dataset Overview
 This dataset contains customer information and purchasing behavior data, focusing on demographic, economic, and spending attributes. The columns used for analysis are as follows:
 
-CustomerID: A unique identifier for each customlts.*
+CustomerID: A unique identifier for each customlts.
 
 Gender: Categorical data representing the customer's gender.
 
